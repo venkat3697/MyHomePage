@@ -1,0 +1,38 @@
+.custom-search {
+    height: 30px; /* Adjust the height as needed */
+  }
+  
+  .input-group-text {
+    padding: 5px; /* Adjust padding for better alignment */
+  }
+  
+  .input-group-text i {
+    font-size: 1.2rem; /* Adjust icon size */
+  }
+  
+  .custom-search {
+    height: 30px; /* Adjust the height as needed */
+  }
+  
+  .input-group-text {
+    padding: 5px; /* Adjust padding for better alignment */
+  }
+  
+  .input-group-text i {
+    font-size: 1.2rem; /* Adjust icon size */
+  }
+  
+  .custom-font {
+    font-family: 'Verdana';
+    font-size: small; /* Change this to your desired font */
+    
+  }
+  .custom-title {
+    font-family: 'Verdana';
+    font-size: medium; 
+  }
+.custom-margin {
+   margin: '2px 0' 
+  }
+
+ 
